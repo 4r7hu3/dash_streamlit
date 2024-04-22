@@ -202,13 +202,13 @@ with dash_3:
         with tab1:
             plot = alt.Chart(composicao_uso).mark_bar(opacity=0.9, color="#9FC131").encode(
                 x = alt.X('sum(Faturamento):Q'),
-                y = alt.Y('INDICACAO_USO:N', sort='-x').axis().title('Tipo de uso'),
+                y = alt.Y('INDICACAO_USO:N', sort='-x', title='Tipo de uso'),
                 tooltip = [alt.Tooltip('sum(Faturamento):Q', title='Total Faturado', format='~s'), alt.Tooltip('INDICACAO_USO:N', title='Tipo de uso')]
             )
 
             text = alt.Chart(composicao_uso).mark_text(color='white', dx=-40, fontWeight='bold').encode(
                 x = alt.X('sum(Faturamento):Q'),
-                y = alt.Y('INDICACAO_USO:N', stack = 'zero'),
+                y = alt.Y('INDICACAO_USO:N', stack = 'zero', sort='-x'),
                 text = alt.Text('sum(Faturamento):Q', format='~s'),
                 tooltip = [alt.Tooltip('sum(Faturamento):Q', format='~s', title='Total Faturado'), alt.Tooltip('INDICACAO_USO:N', title='Tipo de uso')]
             )
@@ -229,7 +229,7 @@ with dash_3:
 
             text = alt.Chart(composicao_tipo).mark_text(color='white', dx=-40, fontWeight='bold').encode(
                 x = alt.X('sum(Faturamento):Q'),
-                y = alt.Y('TIPO:N', stack = 'zero'),
+                y = alt.Y('TIPO:N', stack = 'zero', sort='-x'),
                 text = alt.Text('sum(Faturamento):Q', format='~s'),
                 tooltip = [alt.Tooltip('sum(Faturamento):Q', format='~s', title='Total Faturado'), alt.Tooltip('TIPO:N', title='Tipo de fertilizante')]
             )
