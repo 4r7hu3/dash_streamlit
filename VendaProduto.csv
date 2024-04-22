@@ -1,0 +1,169 @@
+ID_FERTILIZANTE,NOME,PRECO_MEDIO_GALAO_2022,PRECO_MEDIO_GALAO_2023,TIPO,SOLO_RECOMENDADO,INDICACAO_USO,CLASS_TOXICIDADE,TEMPO_LIB_NUTRIENTES,CLASS_SUSTENTAB,CLASS_SOLUBILIDADE,METODO_IRRIGACAO_IDEAL,STATUS_VENDA,Mês,Faturamento
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,1,51100.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,1,16800.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,1,42000.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,1,42900.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,1,15100.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,1,20500.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,1,51400.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,1,30900.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,1,27900.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,1,48700.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,1,23700.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,1,20000.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,1,31500.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,1,56800.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,2,49600.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,2,21200.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,2,41400.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,2,43700.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,2,15700.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,2,32300.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,2,56200.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,2,28400.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,2,29600.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,2,45400.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,2,27000.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,2,23400.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,2,27300.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,2,56100.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,3,47700.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,3,30300.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,3,0.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,3,44700.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,3,16700.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,3,25000.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,3,67300.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,3,24800.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,3,30600.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,3,39400.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,3,22400.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,3,19500.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,3,22300.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,3,56600.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,4,50500.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,4,36100.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,4,56000.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,4,44200.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,4,17700.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,4,37600.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,4,69500.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,4,29900.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,4,30800.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,4,36100.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,4,21300.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,4,20300.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,4,18000.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,4,60300.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,5,49700.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,5,43800.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,5,52500.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,5,45000.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,5,17000.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,5,37800.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,5,66700.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,5,36900.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,5,31900.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,5,38000.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,5,17900.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,5,22900.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,5,15800.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,5,61200.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,6,0.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,6,53300.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,6,59800.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,6,45900.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,6,16200.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,6,40400.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,6,77300.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,6,33900.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,6,30300.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,6,33300.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,6,17300.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,6,26600.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,6,10800.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,6,64000.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,7,47700.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,7,50800.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,7,55600.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,7,45000.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,7,18000.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,7,50300.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,7,78200.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,7,31500.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,7,29900.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,7,34100.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,7,15600.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,7,26700.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,7,6700.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,7,67500.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,8,46200.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,8,59400.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,8,58200.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,8,45000.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,8,16500.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,8,43600.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,8,69600.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,8,38800.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,8,29500.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,8,32800.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,8,15200.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,8,279000.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,8,2100.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,8,67600.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,9,44700.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,9,65200.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,9,49700.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,9,45100.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,9,17300.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,9,51600.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,9,74300.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,9,45800.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,9,28600.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,9,36000.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,9,20000.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,9,25400.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,9,0.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,9,69900.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,10,43000.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,10,72300.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,10,49200.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,10,44800.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,10,17600.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,10,58600.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,10,80700.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,10,52200.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,10,29300.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,10,37500.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,10,15400.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,10,26600.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,10,0.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,10,70600.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,11,43800.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,11,69400.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,11,45000.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,11,44000.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,11,16300.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,11,68300.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,11,82100.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,11,50800.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,11,28800.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,11,36100.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,11,12500.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,11,24000.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,11,0.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,11,73100.0
+15,RootReviveUltra,221.55,224.85,Mineral,Humoso,Cultivos,Média,Médio,Baixa,Baixa,Aspersão,Ativo,12,42400.0
+01,Bio_Grow_Max,176.8,196.85,Sintático,Arenoso,Horticultura,Média,Médio,Média,Baixa,Gotejamento,Ativo,12,73600.0
+03,TerraBoost PRO,173.55,204.3,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,12,53600.0
+14,Plant Pro,209.25,236.9,Orgnânico,Argiloso,Agricultura,Baixa,Lento,Média,Alta,Aspersão,Ativo,12,43100.0
+20,AgriNutri,76.25,95.55,Sintático,Arenoso,Horticultura,Baixa,Médio,Média,Baixa,Gotejamento,Ativo,12,13600.0
+05,VitalGrow,265.65,259.2,Mineral,Arenoso,Horticultura,Média,Lento,Alta,Alta,Aspersão,Ativo,12,72500.0
+08,Plant Vitalize,360.95,387.6,Orgnânico,Argiloso,Cultivos,Baixa,Lento,Alta,Alta,Gotejamento,Ativo,12,86500.0
+11,Terra Fusion,163.4,183.1,Mineral,Humoso,Cultivos,Baixa,Lento,Alta,Média,Aspersão,Ativo,12,44700.0
+04,GreenGuardian,114.95,121.05,Orgnânico,Arenoso,Horticultura,Baixa,Lento,Média,Alta,Gotejamento,Ativo,12,29100.0
+09,AgroBoost,168.15,181.4,Mineral,Humoso,Agricultura,Baixa,Médio,Média,Alta,Aspersão,Ativo,12,32200.0
+16,Eco_Growth_Catalyst,60.8,80.15,Sintático,Arenoso,Cultivos,Baixa,Lento,Alta,Média,Gotejamento,Descontinuado,12,4200.0
+12,Bloom_Master_Blend,81.3,98.75,Sintático,Argiloso,Agricultura,Alta,Rápido,Baixa,Média,Gotejamento,Ativo,12,21700.0
+10,HarvestMax Formula,63.75,98.15,Sintático,Arenoso,Horticultura,Média,Lento,Alta,Média,Aspersão,Descontinuado,12,0.0
+02,NutriVeg Plus,295.15,286.7,Orgnânico,Argiloso,Agricultura,Baixa,Médio,Alta,Alta,Aspersão,Ativo,12,74400.0
