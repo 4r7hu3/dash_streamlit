@@ -1,0 +1,15 @@
+ID_FERTILIZANTE	NOME	TIPO	SOLO_RECOMENDADO	INDICACAO_USO	CLASS_TOXICIDADE	TEMPO_LIB_NUTRIENTES	CLASS_SUSTENTAB	CLASS_SOLUBILIDADE	METODO_IRRIGACAO_IDEAL	STATUS_VENDA
+#0001	BioGrowMax	SintÃ©tico	Arenoso	Horticultura	MÃ©dia	MÃ©dio	MÃ©dia	Baixa	Gotejamento	Ativo
+#0002	NutriVeg Plus	OrgÃ¢nico	Argiloso	Agricultura	Baixa	MÃ©dio	Alta	Alta	AspersÃ£o	Ativo
+#0003	TerraBoost Pro	Mineral	Humoso	Cultivos	Baixa	Lento	Alta	MÃ©dia	AspersÃ£o	Ativo
+#0004	GreenGuardian	OrgÃ¢nico	Arenoso	Horticultura	Baixa	Lento	MÃ©dia	Alta	Gotejamento	Ativo
+#0005	VitalGrow Elixir	Mineral	Arenoso	Horticultura	MÃ©dia	Lento	Alta	Alta	AspersÃ£o	Ativo
+#0008	PlantVitalize	OrgÃ¢nico	Argiloso	Cultivos	Baixa	Lento	Alta	Alta	Gotejamento	Ativo
+#0009	AgroBoost Supreme	Mineral	Humoso	Agricultura	Baixa	MÃ©dio	MÃ©dia	Alta	AspersÃ£o	Ativo
+#0010	HarvestMax Formula	SintÃ©tico	Arenoso	Horticultura	MÃ©dia	Lento	Alta	MÃ©dia	AspersÃ£o	Descontinuado
+#0011	TerraFusion Pro	Mineral	Humoso	Cultivos	Baixa	Lento	Alta	MÃ©dia	AspersÃ£o	Ativo
+#0012	BloomMaster Blend	SintÃ©tico	Argiloso	Agricultura	Alta	RÃ¡pido	Baixa	MÃ©dia	Gotejamento	Ativo
+#0014	PlantPro Vitality	OrgÃ¢nico	Argiloso	Agricultura	Baixa	Lento	MÃ©dia	Alta	AspersÃ£o	Ativo
+#0015	RootRevive Ultra	Mineral	Humoso	Cultivos	MÃ©dia	MÃ©dio	Baixa	Baixa	AspersÃ£o	Ativo
+#0016	EcoGrowth Catalyst	SintÃ©tico	Arenoso	Cultivos	Baixa	Lento	Alta	MÃ©dia	Gotejamento	Descontinuado
+#0020	AgriNutri Power	SintÃ©tico	Arenoso	Horticultura	Baixa	MÃ©dio	MÃ©dia	Baixa	Gotejamento	Ativo
